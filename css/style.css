@@ -1,0 +1,123 @@
+/* font_style */
+.contents_title_xxlarge {
+     font-size: 62px; font-weight: 800; line-height: 86%; letter-spacing: -1px; 
+}
+.contents_title_journey {
+    font-size: 46px; font-weight: 700; line-height: 86%; letter-spacing: -0.7px;
+}
+.contents_title_xlarge {
+    font-size: 44px; font-weight: 800; line-height: 143%; letter-spacing: -1.38px;
+}
+.contents_title_large {
+    font-size: 38px; font-weight: 600; line-height: 143%; letter-spacing: -1.13px;
+}
+.contents_title_xmedium {
+    font-size: 32px; font-weight: 700; line-height: 130%; letter-spacing: -1.38px;
+}
+.contents_title_medium {
+    font-size: 24px; font-weight: 500; line-height: 143%; letter-spacing: -0.7px;
+}
+.contents_title_small {
+    font-size: 20px; font-weight: 800; line-height: 143%; letter-spacing: -0.62px;
+}
+.contents_title_xsmall {
+    font-size: 16px; font-weight: 600; line-height: 143%; letter-spacing: -0.5px;
+}
+
+/* font_style_lush */
+.contents_title_lush_xlarge {
+    font-size: 80px; font-weight: 800; line-height: 86%; letter-spacing: -1.27px;
+    font-family: 'Lush';
+}
+.contents_title_lush_large {
+    font-size: 70px; font-weight: 800; line-height: 86%; letter-spacing: -1px;
+    font-family: 'Lush';
+}
+.contents_title_lush_medium {
+    font-size: 60px; font-weight: 800; line-height: 86%; letter-spacing: -0.94px;
+    font-family: 'Lush';
+}
+.contents_title_lush_small {
+    font-size: 30px; font-weight: 800; line-height: 143%; letter-spacing: -0.3px;
+    font-family: 'Lush';
+}
+
+/* font_style_article */
+.contents_gnb {
+    font-size: 14px; font-weight: 700; letter-spacing: -0.7px;
+} 
+.contents_article_large {
+    font-size: 20px; font-weight: 400; line-height: 120%; letter-spacing: -0.7px;
+}
+.contents_article_medium_sb {
+    font-size: 18px; font-weight: 600; line-height: 86%; letter-spacing: -0.49px; 
+}
+.contents_article_medium_md {
+    font-size: 18px; font-weight: 500; line-height: 164%; letter-spacing: -0.7px;
+}
+.contents_article_small_bd {
+    font-size: 16px; font-weight: 700; line-height: 86%; letter-spacing: -0.41px;
+}
+.contents_article_small_md {
+    font-size: 16px; font-weight: 400; line-height: 143%; letter-spacing: -0.5px;
+}
+.contents_article_xsmall {
+    font-size: 14px; font-weight: 600; line-height: 86%; letter-spacing: -0.41px;
+}
+.contents_article_xxsmall {
+    font-size: 12px; font-weight: 600; line-height: 86%; letter-spacing: -0.41px;
+}
+
+/* owl-carousel */
+.owl-carousel .owl-item img { width: auto !important; }
+
+/* view more, 예약하러 가기 btn */
+.section_01_btn { display: flex; flex-wrap: wrap; align-items: flex-end; justify-content: space-between; gap: 40px; }
+.section_01_btn img { cursor: pointer; }
+.section_01_btn img:hover { opacity: 0.7; transition: .3s; }
+
+.section_02_btn {
+    width: 162px; height: 54px;
+    display: flex; flex-wrap: wrap;
+    justify-content: center; align-content: center; border-radius: 60px;
+    background: #404040;
+    color: #fff;
+}
+.section_02_btn:hover {
+    background: #6a6a6a;
+    color: #fff; transition: .3s;
+}
+
+.section_04_btn {
+    width: 162px; height: 54px;
+    display: flex; flex-wrap: wrap;
+    justify-content: center; align-content: center; border-radius: 60px; 
+    border: 1px solid #404040;
+    color: #404040;
+}
+.section_04_btn:hover {
+    background: #262626;
+    color: #fff; transition: .3s;
+}
+
+.section_05_btn {
+    width: 150px; height: 47px;
+    display: flex; flex-wrap: wrap;
+    justify-content: center; 
+    align-content: center; border-radius: 60px; margin-top: 39px;
+    border: 1px solid #fff;
+    color: #fff;
+}
+.section_05_btn:hover {
+    background: #fff;
+    color: #262626; transition: .3s;
+}
+
+.section_06_btn {
+    width: 150px; height: 47px;
+    display: flex; flex-wrap: wrap; justify-content: center; align-content: center; border-radius: 60px; border: 1px solid #fff;
+    color: #fff;
+}
+.section_06_btn:hover {
+    background: #fff; color: #262626; transition: .3s;
+}
